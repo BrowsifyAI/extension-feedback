@@ -9,9 +9,21 @@ Browsify.ai is a browser extension that seamlessly integrates ChatGPT into your 
   <a href="https://discord.gg/A3C2uV7dUk" target="_blank"><img src="https://img.shields.io/badge/discord-8A2BE2" alt="Chat"></a>
 </p>
 
-## Community and Support
+## How to Provide Feedback
 
-- [Join Our Discord](https://discord.gg/A3C2uV7dUk) for real-time discussion and support.
-- [GitHub Issues](https://github.com/BrowsifyAI/browsify.ai/issues) for bug reports or feature requests.
+We value your input! Use this repository exclusively for:
+
+- Reporting bugs
+- Requesting new features
+- Providing general feedback
+
+👉 **[Submit Feedback or Issues](https://github.com/BrowsifyAI/extension-feedback/issues)**
+
+For real-time discussion, community support, and direct interactions with the team, join us on Discord:
+
+🔗 **[Join Our Discord Community](https://discord.gg/A3C2uV7dUk)**
+
+Thank you for helping us improve **Browsify.ai**!
+
 
 
