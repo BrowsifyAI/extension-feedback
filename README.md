@@ -5,7 +5,7 @@ Browsify.ai is a browser extension that seamlessly integrates ChatGPT into your 
 <p align="center"><a href="https://browsify.ai" target="_blank"><img width="100" src="https://cdn.jsdelivr.net/gh/yuanzhixiang1996/picx-images-hosting@master/20250311/logosvg.86tsux41ie.svg" alt="Browsify logo"></a></p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/browsify-ai/jifbpmocffdfmgbcfmgennbmaepghbio" target="_blank"><img src="https://img.shields.io/badge/extension-%20install-65B73A.svg" alt="Install"></a>
+  <a href="https://chromewebstore.google.com/detail/browsify-ai/hlnlopdoajdgkancmajiaoojfojhbced" target="_blank"><img src="https://img.shields.io/badge/extension-%20install-65B73A.svg" alt="Install"></a>
   <a href="https://discord.gg/A3C2uV7dUk" target="_blank"><img src="https://img.shields.io/badge/discord-8A2BE2" alt="Chat"></a>
 </p>
 
