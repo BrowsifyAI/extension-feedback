@@ -29,8 +29,9 @@ body:
       placeholder: |
         e.g.,
         1. Open the plugin.
-        2. Click the "Start Sync" button.
-        3. Wait 5 seconds, and the page crashes.
+        2. Enter the information.
+        3. Paste the image.
+        4. Press the Enter key.
     validations:
       required: true
 

@@ -1,0 +1,43 @@
+name: Feature Request
+description: Suggest a new feature or enhancement for the plugin.
+title: "[Feature] Brief description of the requested feature"
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a new feature! Your ideas help us improve and develop the plugin further.
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature Description
+      description: Clearly describe the feature or enhancement you are requesting.
+      placeholder: |
+        e.g.,
+        Add the ability to export data in CSV format directly from the plugin.
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature-reason
+    attributes:
+      label: Reason / Benefit
+      description: Explain why this feature would be useful and how it can help you or other users.
+      placeholder: |
+        e.g.,
+        This would simplify data processing and save time by allowing users to directly import data into spreadsheets.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Provide any additional information, references, screenshots, or examples.
+      placeholder: |
+        Drag and drop images here, or paste links.
+    validations:
+      required: false
